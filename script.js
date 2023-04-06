@@ -69,7 +69,7 @@ class Calculator {
       });
     }
     if (decimalDigits != null) {
-      return `${integerDisplay}.${decimalDigits}`;
+      return `${integerDisplay}.${decimalDigits.slice(0,2)}`;
     } else {
       return integerDisplay;
     }
