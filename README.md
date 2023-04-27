@@ -1,4 +1,4 @@
-# Java Script Calculator App
+# JavaScript Calculator App
 
 #### This app is a part of Odin project’s curriculum and servers as an example project for my personal web development portfolio. 
 
@@ -6,7 +6,7 @@ Calculator app lets users calculate the result of adding, subtracting, multiplyi
 
 ### Build with:
 
-- Java Script
+- JavaScript
 - HTML 5
 - CSS 3
 
@@ -15,4 +15,4 @@ Calculator app lets users calculate the result of adding, subtracting, multiplyi
 
 ![Image](calculator.png)
 
-This application is built to showcase my understanding of Java Script, alongside the ability to implement CSS and HTML. 
+This application is built to showcase my understanding of JavaScript, alongside the ability to implement CSS and HTML. 
